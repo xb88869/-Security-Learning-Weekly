@@ -1,9 +1,10 @@
 ---
-title: "第1周：Linux 文件系统与权限——从"一切皆文件"到 SSH 后门"
+title: "第1周：Linux 文件系统与权限——从'一切皆文件'到 SSH 后门"
 date: 2026-05-22
 description: "学习 Linux 权限模型的第一周，理解 UGO、rwx、SUID 以及为什么 authorized_keys 是攻击者的首要目标。"
 tags: [Linux, 安全, 权限, SSH]
 ---
+
 
 ## 一、"一切皆文件"——Linux 的世界观
 
